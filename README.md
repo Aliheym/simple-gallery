@@ -2,6 +2,8 @@ Time spent - 2 days.
 
 ## Example
 
+https://codesandbox.io/s/suspicious-brook-lxd40
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
